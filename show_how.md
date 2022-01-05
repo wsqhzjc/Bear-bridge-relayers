@@ -44,6 +44,13 @@ docker-compose up -d
 ---------------------------------------以上内容不需要修改----------------------------------------------
 ***每次更新合约代码后，只要更新注册PledgerBridgeBSC/ETH 就可以。
 
+***当前BRIDGE合约***
+```shell
+
+BSC Bridge: 0xd6169DF58c6886D354A2eA93391D1E0F222D5080
+ETH Bridge: 0xe7f99495EAcC53d6B4bd5FC2B08387F4f32Af54a
+```
+
 代码如下：
 
 ***注册BSC***
