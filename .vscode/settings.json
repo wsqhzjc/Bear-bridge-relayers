@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "GitHub Dark High Contrast",
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#54ee0dfb", // Background color of the active title bar
+        "titleBar.activeForeground": "#FFFFFF", // Text/icon color of the active title bar
+        "titleBar.inactiveBackground": "#54ee0dfb", // Background color when the window is inactive
+        "titleBar.inactiveForeground": "#FFFFFF", // Text/icon color when inactive
+        "activityBar.background": "#54ee0dfb", // Activity bar background color
+        "activityBar.foreground": "#FFFFFF" // Activity bar icons/text color
+    }
+}
